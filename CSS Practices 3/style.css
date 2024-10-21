@@ -1,0 +1,26 @@
+#d1{
+    height: 350px;
+    width: 110px;
+    background-color:black;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+}
+#d2{
+    height:100px;
+    width:100px;
+    background-color: red;
+border-radius: 50%;
+}
+#d3{
+    height:100px;
+    width:100px;
+    background-color: yellow;
+border-radius: 50%;
+}
+#d4{
+    height:100px;
+    width:100px;
+    background-color: green;
+border-radius: 50%;
+}

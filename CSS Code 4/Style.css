@@ -1,0 +1,20 @@
+
+*{
+   color:black;
+   border-radius: 20px;
+   text-transform: capitalize;
+
+}
+
+div{
+   
+    width: 100px;
+    height:100px;
+    color:white;
+     display: inline-block;
+    margin: 25px;
+    padding: 25px;
+}
+#dd1{
+    color:rgba(0, 0, 0, 0.7);
+}

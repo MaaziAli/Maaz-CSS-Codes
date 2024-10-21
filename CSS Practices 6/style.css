@@ -1,0 +1,41 @@
+*{
+    text-transform: capitalize;
+}
+
+div {
+    background-color: pink;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none; 
+    color: rgb(255, 0, 0);
+    /* background-color: white;
+    padding: 10px; */
+}
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 174, 44);
+    align-self: self-start;
+}
+

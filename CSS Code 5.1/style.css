@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+
+}
+div{
+    height: 250px;
+    width: 150px;
+    background-color: aqua;
+    border: solid;
+    display: inline-block;
+}
+#box1{
+    position:sticky;
+    background-color: red;
+    top: 500px;
+    color:beige;
+    z-index: -1;
+}
+#box2{
+    position:relative;
+    color: white;
+    left:10px;
+    background-color: blue;
+    z-index: 2;
+}
+#box3{
+    position: fixed;
+    top: 0px;
+    background-color: green;
+}
+#box4{
+    
+    position:absolute;
+    top: 10px;
+    left: 10px;
+}

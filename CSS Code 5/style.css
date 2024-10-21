@@ -1,0 +1,18 @@
+*{
+    text-transform: capitalize;
+}
+
+
+#box1{
+    height:200px;
+    width:200px ;
+    background-color:green ;
+}
+#box2{
+    height: 50px ;
+    width:90% ; 
+    background-color:yellow ;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 5em;
+}
